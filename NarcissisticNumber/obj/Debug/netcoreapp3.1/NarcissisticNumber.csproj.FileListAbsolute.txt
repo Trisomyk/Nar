@@ -1,0 +1,11 @@
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\bin\Debug\netcoreapp3.1\NarcissisticNumber.exe
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\bin\Debug\netcoreapp3.1\NarcissisticNumber.deps.json
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\bin\Debug\netcoreapp3.1\NarcissisticNumber.runtimeconfig.json
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\bin\Debug\netcoreapp3.1\NarcissisticNumber.runtimeconfig.dev.json
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\bin\Debug\netcoreapp3.1\NarcissisticNumber.dll
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\bin\Debug\netcoreapp3.1\NarcissisticNumber.pdb
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\obj\Debug\netcoreapp3.1\NarcissisticNumber.csprojAssemblyReference.cache
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\obj\Debug\netcoreapp3.1\NarcissisticNumber.AssemblyInfoInputs.cache
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\obj\Debug\netcoreapp3.1\NarcissisticNumber.AssemblyInfo.cs
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\obj\Debug\netcoreapp3.1\NarcissisticNumber.dll
+C:\Users\Trisomyk\Desktop\CodeWars\NarcissisticNumber\NarcissisticNumber\obj\Debug\netcoreapp3.1\NarcissisticNumber.pdb
